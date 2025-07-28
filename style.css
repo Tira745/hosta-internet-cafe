@@ -1,0 +1,23 @@
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+h1, h2 {
+    color: #003366;
+}
+ul {
+    list-style-type: none;
+}
+.logo {
+    height: 60px;
+}
+.cta-button {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #0077cc;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
